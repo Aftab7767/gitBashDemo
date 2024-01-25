@@ -1,0 +1,11 @@
+//*[@id="main-container"]/div/div[1]/div[3]/div[2]/div[4]/div/div/div[2]/div[1]
+
+
+/html/body/div[2]/div/div/div[1]/div[3]/div[2]/div[4]/div/div/div[2]/div[1]
+
+
+@X-path for Amazon price
+
+//u[text()='+5 colours/patterns']/ancestor::div[@class='puisg-col-inner']//span[@class='a-price']
+
+//span[text()='Apple iPhone 13 (128GB) - Midnight']/ancestor::h2/preceding-sibling::div[@class='a-row a-spacing-micro']/ancestor::div[@class='puisg-col-inner']//span[@class='a-price']
